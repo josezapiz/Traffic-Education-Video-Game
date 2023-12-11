@@ -70,5 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 # Ignore the Library directory in Unity projects
 Library/
+=======
+>>>>>>> 521d574b7d9ec8247027041ff0b772080cb0eb06
