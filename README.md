@@ -6,7 +6,7 @@ This video game was part of my thesis.
 Thesis:
 https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3311
 
-Game:
+Gameplay Video:
 https://youtu.be/pInp2rDExno
 
 Screenshots: <br>
