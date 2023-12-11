@@ -1,7 +1,7 @@
 # Traffic-Education-Video-Game
-Traffic Education Video Game intended for children in elementary school
+Traffic Education Video Game intended for children in elementary school.
 
-This video game was part of my thesis.
+This video game was part of my university thesis.
 
 Thesis:
 https://polynoe.lib.uniwa.gr/xmlui/handle/11400/3311
