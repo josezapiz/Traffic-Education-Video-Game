@@ -1,5 +1,5 @@
 # Traffic-Education-Video-Game
-Traffic Education Video Game intended for children in elementary school.
+Developed an engaging and interactive educational video game targeted at elementary school children to facilitate learning about the highway code in a fun and interacative manner.
 
 This video game was part of my university thesis.
 
